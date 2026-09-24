@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# Gmail OAuth credentials
+credentials.json
+token.json
+client_secret*.json
+
+# Uploaded files
+uploads/*
+
+# PyCharm
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Extra credentials
+credentials.txt
